@@ -1,0 +1,33 @@
+
+.side-panel{
+    width: 526px;
+    height: 735px;
+}
+
+.Description {
+    width: 370px;
+/* height: 265px; */
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+text-indent: 2px;
+}
+
+.number{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;        
+    color: rgba(255, 255, 255, 0.29);
+    
+}
+
+.points{
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 27px;
+    letter-spacing: 0.05em;
+}

@@ -1,0 +1,39 @@
+/* *{
+    overflow: hidden;
+} */
+.line2{
+    position: relative;
+    width: 2533.74px;
+    height: 70.73px;
+    left: -727.46px;
+    top: -375.89px;    
+    background: #FAFAFA;
+    mix-blend-mode: lighten;
+    transform: rotate(25.17deg);
+}
+
+.line1{
+    position: absolute;
+    width: 1570.56px;
+    height: 61.95px;
+    left: -103.02px;
+    top: 200.07px;    
+    background: #212121;
+    border: 10px solid #0F0F0F;
+    transform: rotate(-20.34deg);    
+}
+
+.fire{
+    background: linear-gradient(197.64deg, rgba(255, 251, 160, 0.15) 13.35%, rgba(58, 255, 231, 0.06) 89.91%);
+    filter: blur(20.1552px);
+}
+
+.icon{
+    fill: #FAFAFA
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
